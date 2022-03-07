@@ -2,6 +2,7 @@
 var generateBtn = document.querySelector("#generate");
 
 
+
 var passwordLength;
 var lowerCase;
 var upperCase;
