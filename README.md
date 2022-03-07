@@ -10,7 +10,7 @@ Active Link: https://emondul.github.io/password-generator/
 ## Description
 
 Creates a new and unique password from the requirments you set.
-![screenshot](/assets/img/password.png?raw=true "Screenshot")
+![screenshot](/assets/password.png?raw=true "Screenshot")
 
 ## Table of Contents
 
